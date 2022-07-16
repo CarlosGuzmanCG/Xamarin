@@ -1,0 +1,16 @@
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\bin\Debug\netstandard2.0\Btn.deps.json
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\bin\Debug\netstandard2.0\Btn.dll
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\bin\Debug\netstandard2.0\Btn.pdb
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Btn.csproj.AssemblyReference.cache
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Btn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Vistas\MainPage.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Vistas\PrimeraPag.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Btn.AssemblyInfoInputs.cache
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Btn.AssemblyInfo.cs
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Btn.csproj.CoreCompileInputs.cache
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Btn.dll
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\refint\Btn.dll
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\Btn.pdb
+C:\Users\cgGuz\source\xamarin\Btn\Btn\Btn\obj\Debug\netstandard2.0\ref\Btn.dll

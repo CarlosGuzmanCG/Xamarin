@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrHyJ14s/5RzMYZshZvJNeFH2CLyvsdvOWYYou8ilC3f6Jc97jQdiLKbJ/qjnTme/SjWK+Vjeram2uOIOoO2/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cgGuz\\source\\xamarin\\Btn\\Btn\\Btn.iOS\\Btn.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cgGuz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cgGuz\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cgGuz\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

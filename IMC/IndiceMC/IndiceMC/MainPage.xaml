@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  BackgroundColor="Black" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IndiceMC.MainPage">
+
+
+    <StackLayout BackgroundColor="Azure"
+                 
+                 VerticalOptions="Center"
+                 HorizontalOptions="Fill"
+                 >
+        <Label Text="Calcular el IMC" FontSize="Large" HorizontalTextAlignment="Center" />
+        <Entry Placeholder="Altura" x:Name="txtAltura" Keyboard="Numeric" />
+        <Entry Placeholder="Peso" x:Name="txtPeso" Keyboard="Numeric"/>
+        <Button BackgroundColor="DarkBlue"  TextColor="White" Text="Calcular" x:Name="btnCalcular" HorizontalOptions="Center" 
+                Clicked="btnCalcular_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

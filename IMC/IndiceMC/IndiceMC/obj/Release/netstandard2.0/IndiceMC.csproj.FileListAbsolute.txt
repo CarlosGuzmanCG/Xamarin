@@ -1,0 +1,15 @@
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\bin\Release\netstandard2.0\IndiceMC.deps.json
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\bin\Release\netstandard2.0\IndiceMC.dll
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\bin\Release\netstandard2.0\IndiceMC.pdb
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\IndiceMC.csproj.AssemblyReference.cache
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\IndiceMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\IndiceMC.AssemblyInfoInputs.cache
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\IndiceMC.AssemblyInfo.cs
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\IndiceMC.csproj.CoreCompileInputs.cache
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\IndiceMC.dll
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\refint\IndiceMC.dll
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\IndiceMC.pdb
+C:\Users\cgGuz\source\xamarin\IndiceMC\IndiceMC\IndiceMC\obj\Release\netstandard2.0\ref\IndiceMC.dll

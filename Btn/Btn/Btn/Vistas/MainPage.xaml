@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Btn.Vistas.MainPage" BackgroundColor="Black" Title="Suma">
+
+    <ContentPage.ToolbarItems >
+        <ToolbarItem Text="Hola"
+                     Order="Secondary"
+                     x:Name="btnHola"
+                     Clicked="btnHola_Clicked"
+                     />
+        <ToolbarItem Text="Pruebas"
+                     Order="Secondary"/>
+        
+        <ToolbarItem IconImageSource="hogar.png" Text="Pruebas"
+                     Order="Primary"
+                     x:Name="btnSecun"
+                     Clicked="btnSecun_Clicked"
+                     />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout BackgroundColor="Black" VerticalOptions="Center" Margin="25">
+        <Label Text="Pruebas" TextColor="White" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" FontSize="Large" />
+        <Entry Placeholder="Número 1" x:Name="txtN1" PlaceholderColor="White" TextColor="White" Keyboard="Numeric" VerticalOptions="CenterAndExpand"/>
+        <Entry Placeholder="Número 2" x:Name="txtN2" PlaceholderColor="White"  TextColor="White" Keyboard="Numeric" VerticalOptions="CenterAndExpand"/>
+        <Button x:Name="btnCalc" Clicked="btnCalc_Clicked" Text="Calcular" VerticalOptions="CenterAndExpand" Margin="30,0,30,0" CornerRadius="25" FontAttributes="Bold"/>
+    </StackLayout>
+
+</ContentPage>
