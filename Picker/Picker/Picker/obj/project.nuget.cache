@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lzWOpe8+bq2Y39FMHFsOIOV3Be05f9vIEC+GLTpDYCZVapY0wITwv5f7LJZvMTKLGVizt/VKKema51NwB+NdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cgGuz\\source\\xamarin\\Picker\\Picker\\Picker\\Picker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cgGuz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cgGuz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cgGuz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cgGuz\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cgGuz\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

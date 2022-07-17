@@ -35,8 +35,6 @@ namespace Componentes.Vistas
                 nombre = "Tortilla",
                 precio = "$ 16"
             });
-
-
             BindingContext = this;
         }
 
