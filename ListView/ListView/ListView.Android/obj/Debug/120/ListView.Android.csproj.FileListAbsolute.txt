@@ -630,3 +630,4 @@ C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView.Android\obj\Debug\120\s
 C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView.Android\obj\Debug\120\res\drawable\firmaelec.png
 C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView.Android\obj\Debug\120\res\drawable\tabletagraf.png
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView.Android\obj\Debug\120\res\drawable\estudio.png

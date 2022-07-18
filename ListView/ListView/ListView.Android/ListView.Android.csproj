@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\estudio.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ListView\ListView.csproj">
       <Project>{D385AC70-2EDF-4BFE-AFC7-F4BD9D5311C0}</Project>

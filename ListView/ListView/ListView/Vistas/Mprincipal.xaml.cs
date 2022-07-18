@@ -23,25 +23,31 @@ namespace ListView.Vistas
             Datos.Add(new ListV
             { 
                 nombre = "Jose",
-                apellido = "pedro"
+                imagen = "estudio.png"
             });
 
             Datos.Add(new ListV
             {
                 nombre = "Carlos",
-                apellido = "pedro"
+                imagen = "estudio.png"
             });
 
             Datos.Add(new ListV
             {
                 nombre = "Ale",
-                apellido = "pedro"
+                imagen = "estudio.png"
             });
 
             Datos.Add(new ListV
             {
                 nombre = "Pablo",
-                apellido = "pedro"
+                imagen = "estudio.png"
+            }) ;
+
+            Datos.Add(new ListV
+            {
+                nombre="CG",
+                imagen ="estudio.png"
             });
 
             BindingContext = this;

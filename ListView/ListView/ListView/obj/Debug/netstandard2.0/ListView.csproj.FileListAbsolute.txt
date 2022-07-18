@@ -13,3 +13,4 @@ C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.
 C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\refint\ListView.dll
 C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.pdb
 C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ref\ListView.dll
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\Vistas\Tarjetas.xaml.g.cs
