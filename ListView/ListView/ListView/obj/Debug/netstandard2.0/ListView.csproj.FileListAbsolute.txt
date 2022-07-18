@@ -1,0 +1,15 @@
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.deps.json
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.dll
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.pdb
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csproj.AssemblyReference.cache
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\Vistas\Mprincipal.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfoInputs.cache
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfo.cs
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csproj.CoreCompileInputs.cache
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.dll
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\refint\ListView.dll
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.pdb
+C:\Users\cgGuz\source\xamarin\ListView\ListView\ListView\obj\Debug\netstandard2.0\ref\ListView.dll

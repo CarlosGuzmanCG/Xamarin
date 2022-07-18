@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListView.Vistas.Mprincipal">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <ListView ItemsSource="{Binding Datos}" 
+                  SelectionMode="None">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="40"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="40"/>
+                                <ColumnDefinition Width="60"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Grid.Column="0"
+                                    Source="firmaElec.png" Margin="8"/>
+                            <Label Text="{Binding nombre}" Grid.Column="1" HorizontalTextAlignment="Start"
+                                   VerticalTextAlignment="Center"/>
+                            <Label Grid.Column="2" Text="{Binding apellido}" VerticalTextAlignment="Center"/>
+                            <Image Grid.Column="3" Source="tabletaGraf.png" Margin="4"/>
+                        </Grid>
+
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+
+
+
+</ContentPage>
