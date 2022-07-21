@@ -10,7 +10,7 @@ namespace ListView
         {
             InitializeComponent();
 
-            MainPage = new  NavigationPage (new Vistas.Tarjetas());
+            MainPage = new  NavigationPage (new Vistas.Mprincipal());
         }
 
         protected override void OnStart()

@@ -53,5 +53,15 @@ namespace ListView.Vistas
             BindingContext = this;
 
         }
+
+        private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+            
+            ListV seleccion = e.Item as ListV;
+            if (seleccion.nombre == "Carlos")
+            {
+                Navigation.PushAsync(new Tarjetas());
+            }
+        }
     }
 }

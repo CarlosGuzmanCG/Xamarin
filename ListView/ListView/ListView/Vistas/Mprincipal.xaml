@@ -11,7 +11,8 @@
         </Grid.RowDefinitions>
 
         <ListView ItemsSource="{Binding Datos}" 
-                  SelectionMode="None">
+                  SelectionMode="None" ItemTapped="ListView_ItemTapped"
+                  >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

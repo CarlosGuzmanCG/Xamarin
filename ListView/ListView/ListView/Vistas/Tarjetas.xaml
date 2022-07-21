@@ -30,6 +30,7 @@
                     <StackLayout Grid.Column="1" Grid.Row="2" Orientation="Horizontal">
                         <Button Text="OK" />
                         <Button Text="Cancelar"/>
+                        <Button Text="Regresar"/>
                     </StackLayout>
                 </Grid>
             </Frame>
