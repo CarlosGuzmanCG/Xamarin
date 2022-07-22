@@ -16,5 +16,10 @@ namespace ListView.Vistas
         {
             InitializeComponent();
         }
+
+        private void btnvolver_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PopAsync();
+        }
     }
 }
