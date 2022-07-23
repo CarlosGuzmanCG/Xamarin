@@ -22,7 +22,7 @@ namespace Btn.Vistas
 
         private void btnHola_Clicked(object sender, EventArgs e)
         {
-            DisplayAlert("Btn Hola","Hola","OK");
+            DisplayAlert("Btn Hola","Hola ","OK");
         }
 
         private void btnCalc_Clicked(object sender, EventArgs e)
