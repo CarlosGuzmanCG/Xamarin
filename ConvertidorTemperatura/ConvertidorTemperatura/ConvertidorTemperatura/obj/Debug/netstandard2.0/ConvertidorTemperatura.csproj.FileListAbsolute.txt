@@ -1,0 +1,15 @@
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\bin\Debug\netstandard2.0\ConvertidorTemperatura.deps.json
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\bin\Debug\netstandard2.0\ConvertidorTemperatura.dll
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\bin\Debug\netstandard2.0\ConvertidorTemperatura.pdb
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ConvertidorTemperatura.csproj.AssemblyReference.cache
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ConvertidorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ConvertidorTemperatura.AssemblyInfoInputs.cache
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ConvertidorTemperatura.AssemblyInfo.cs
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ConvertidorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ConvertidorTemperatura.dll
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\refint\ConvertidorTemperatura.dll
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ConvertidorTemperatura.pdb
+C:\Users\cgGuz\source\xamarin\ConvertidorTemperatura\ConvertidorTemperatura\ConvertidorTemperatura\obj\Debug\netstandard2.0\ref\ConvertidorTemperatura.dll

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="Black"
+             x:Class="ConvertidorTemperatura.MainPage">
+
+    <StackLayout BackgroundColor="black" HorizontalOptions="Center" WidthRequest="280" Padding="25">
+        <Frame BackgroundColor="Azure" CornerRadius="0" VerticalOptions="Center">
+            <Label BackgroundColor="Black" Text="Conversor de temperaturas"  TextColor="White"
+                   HorizontalOptions="Center" VerticalOptions="Center" FontSize="25" HorizontalTextAlignment="Center"
+                   Padding="10,35,10,35"  />
+        </Frame>
+
+        <StackLayout Padding="25">
+            <Entry Placeholder="Fahrenheit" BackgroundColor="White" Keyboard="Numeric" x:Name="etFah"/>
+            <Entry Placeholder="Centigrados" BackgroundColor="White" IsEnabled="False" x:Name="etCenti"/>
+            <Button Text="Convertir" BackgroundColor="Aquamarine" HeightRequest="55" 
+                    x:Name="btConver" Clicked="btConver_Clicked"/>
+        </StackLayout>
+
+    </StackLayout>
+
+
+
+</ContentPage>
