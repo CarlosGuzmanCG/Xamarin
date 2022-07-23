@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Padding="25"   xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraBasica.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="LightSeaGreen" Padding="24" CornerRadius="45">
+            <Label Text="Calculadora básica" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Grid Padding="25">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Label Text="Ingrese un número:" TextColor="Black" Grid.Row="0" Grid.Column="0" FontAttributes="Bold" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Ingrese un valor" Keyboard="Numeric" x:Name="etN1" Grid.Row="0"  Grid.Column="1" />
+
+            <Label Text="Ingrese un número:" TextColor="Black" Grid.Row="1" Grid.Column="0" FontAttributes="Bold" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Ingrese un valor" Keyboard="Numeric" x:Name="etN2" Grid.Row="1"  Grid.Column="1" />
+
+
+
+        </Grid>
+        
+        <Grid Padding="12" BackgroundColor="Aqua">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="btSuma" Clicked="btSuma_Clicked" Text="Suma" Grid.Row="0" Grid.Column="0"  />
+            <Button x:Name="btResta" Clicked="btResta_Clicked" Text="Resta" Grid.Row="0" Grid.Column="1"/>
+            <Button x:Name="btMult" Clicked="btMult_Clicked" Text="Multiplicación" Grid.Row="1" Grid.Column="0"/>
+            <Button x:Name="btDivi" Clicked="btDivi_Clicked" Text="División" Grid.Row="1" Grid.Column="1"/>
+
+            <Button x:Name="btLimpiar" Clicked="btLimpiar_Clicked" Grid.Row="2" Grid.ColumnSpan="2" Text="Limpiar" />
+
+        </Grid>
+        
+        
+    </StackLayout>
+
+    
+
+</ContentPage>
