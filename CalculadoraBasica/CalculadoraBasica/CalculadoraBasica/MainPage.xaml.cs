@@ -84,7 +84,7 @@ namespace CalculadoraBasica
                 }
                 else
                 {
-                    DisplayAlert("Resultado", "Ingrese un número diferente", "Ok");
+                    DisplayAlert("Resultado", "Ingrese un número diferente ", "Ok");
                 }
 
             }
